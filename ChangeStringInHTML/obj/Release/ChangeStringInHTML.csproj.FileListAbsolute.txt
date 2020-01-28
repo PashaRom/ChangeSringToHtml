@@ -1,0 +1,5 @@
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\bin\Release\ChangeStringInHTML.exe.config
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\bin\Release\ChangeStringInHTML.exe
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\bin\Release\ChangeStringInHTML.pdb
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\obj\Release\ChangeStringInHTML.exe
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\obj\Release\ChangeStringInHTML.pdb

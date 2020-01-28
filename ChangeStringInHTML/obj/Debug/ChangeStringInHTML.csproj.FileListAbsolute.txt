@@ -1,0 +1,6 @@
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\bin\Debug\ChangeStringInHTML.exe.config
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\bin\Debug\ChangeStringInHTML.exe
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\bin\Debug\ChangeStringInHTML.pdb
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\obj\Debug\ChangeStringInHTML.csprojResolveAssemblyReference.cache
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\obj\Debug\ChangeStringInHTML.exe
+D:\Проекты\ChangeStringInHTML\ChangeStringInHTML\obj\Debug\ChangeStringInHTML.pdb
